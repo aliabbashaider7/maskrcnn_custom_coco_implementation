@@ -1,0 +1,7 @@
+# python3.6
+pycocotools
+tensorflow-gpu==1.15.0
+keras==2.2.5
+labelme
+labelme2coco
+imgaug
