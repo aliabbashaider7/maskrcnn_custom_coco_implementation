@@ -19,4 +19,6 @@ Note: Be sure to change number of classes in CocoConfid class inside of train.py
 before you hit training.
 Trained weights will be saved under logs directory.
 
-# Coco Inference on custom test data will be added soon
+# Inference:
+Run test.py with correct model path, image path and of course a list of class names you trained.
+An opencv window pops up showing masks, corresponding bounding boxes and labels as the results.
